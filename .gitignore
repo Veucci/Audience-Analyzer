@@ -1,0 +1,5 @@
+__pycache__/
+video.mp4
+ffmpeg.exe
+utils/
+**/*.jpg
