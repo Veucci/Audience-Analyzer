@@ -22,11 +22,10 @@ You can download the binaries from the [official website](https://ffmpeg.org) of
 
 Run project
 
-### video.mp4 and ffmpeg.exe should be located in this folder.
-
 ```bash
   python main.py
 ```
+### video.mp4 and ffmpeg.exe should be located in this folder!
 
   
 ## Roadmap
